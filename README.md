@@ -1,2 +1,0 @@
-# mysdk
-just for test
